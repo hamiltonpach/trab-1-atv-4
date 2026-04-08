@@ -1,1 +1,3 @@
 # trab-1-atv-4
+Esse código declara três matrizes 3x3: uma para armazenar a matriz original, outra para a matriz identidade e uma terceira para guardar o resultado da multiplicação. Primeiro, o programa lê os valores da matriz original digitados pelo usuário. Em seguida, ele cria a matriz identidade, preenchendo a diagonal principal com 1 e o restante com 0.
+Depois, o código realiza a multiplicação da matriz original pela matriz identidade, armazenando o resultado em uma terceira matriz. Por fim, ele imprime a matriz identidade, o resultado da multiplicação e a matriz original, permitindo observar que o resultado é igual à matriz inicial, comprovando a propriedade da matriz identidade.
